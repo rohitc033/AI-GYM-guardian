@@ -1,0 +1,8 @@
+[passwords]
+# Follow the rule: username = "password"
+alice_foo = "streamlit123"
+bob_bar = "mycrazypw"
+Guru = "1234"
+Agent1 = "buyer1"
+Ankit = "rohit"
+aditya="ankit"
